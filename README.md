@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Patrick Stöckle, I am almost finished with my Ph.D. in Informatics at the [Technical University of Munich (TUM)](https://www.tum.de/en/), and currently looking for a job.
+My name is Patrick Stöckle and I am almost finished with my Ph.D. in Informatics at the [Technical University of Munich (TUM)](https://www.tum.de/en/).
 As a researcher in IT security and software engineering, I have published several articles as a first author, notably two A* papers.
 During my time at the TUM, I worked 4 years on an industry-funded project about security configuration.
 Furthermore, I was for 4 years the leading teaching assistant for the course Security Engineering.
