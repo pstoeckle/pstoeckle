@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![GitHub](./images/github.svg){width=30}](https://github.com/pstoeckle)
+[![GitLab](./images/gitlab.svg){width=30}](https://gitlab.com/pstoeckle)
+[![LinkedIn](./images/linkedin.svg){width=30}](https://www.linkedin.com/in/patrick-stoeckle/)
+[![Website](./images/website.svg){width=30}](https://pstoeckle.github.io/)
+
 I'm Dr. Patrick Stöckle and in my job as an expert for cloud and container security at [Siemens](https://www.siemens.com/global/en.html), I help people to use these technologies securely, and develop tools and approaches to support them in doing so.
 
 I received [my PhD](https://mediatum.ub.tum.de/?id=1720520) in computer science from the [Technical University of Munich (TUM)](https://www.tum.de/en/) in 2024.
