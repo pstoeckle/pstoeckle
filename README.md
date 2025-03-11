@@ -1,5 +1,6 @@
 # Dr. Patrick Stöckle
 
+[![Email](https://media.githubusercontent.com/media/pstoeckle/pstoeckle/refs/heads/main/images/email.svg)](mailto:patrick.stoeckle+git@posteo.de)
 [![GitHub](https://media.githubusercontent.com/media/pstoeckle/pstoeckle/refs/heads/main/images/github.svg)](https://github.com/pstoeckle)
 [![GitLab](https://media.githubusercontent.com/media/pstoeckle/pstoeckle/refs/heads/main/images/gitlab.svg)](https://gitlab.com/pstoeckle)
 [![LinkedIn](https://media.githubusercontent.com/media/pstoeckle/pstoeckle/refs/heads/main/images/linkedin.svg)](https://www.linkedin.com/in/patrick-stoeckle/)
