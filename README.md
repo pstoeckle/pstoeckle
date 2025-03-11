@@ -1,9 +1,11 @@
-### Hi there 👋
+# Dr. Patrick Stöckle
 
 [![GitHub](./images/github.svg)](https://github.com/pstoeckle)
 [![GitLab](./images/gitlab.svg)](https://gitlab.com/pstoeckle)
 [![LinkedIn](./images/linkedin.svg)](https://www.linkedin.com/in/patrick-stoeckle/)
 [![Website](./images/website.svg)](https://pstoeckle.github.io/)
+
+## Hi there 👋
 
 I'm Dr. Patrick Stöckle and in my job as an expert for cloud and container security at [Siemens](https://www.siemens.com/global/en.html), I help people to use these technologies securely, and develop tools and approaches to support them in doing so.
 
