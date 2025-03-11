@@ -1,9 +1,9 @@
 # Dr. Patrick Stöckle
 
-[![GitHub](/images/github.svg)](https://github.com/pstoeckle)
-[![GitLab](/images/gitlab.svg)](https://gitlab.com/pstoeckle)
-[![LinkedIn](/images/linkedin.svg)](https://www.linkedin.com/in/patrick-stoeckle/)
-[![Website](/images/website.svg)](https://pstoeckle.github.io/)
+[![GitHub](https://media.githubusercontent.com/media/pstoeckle/pstoeckle/refs/heads/main/images/github.svg)](https://github.com/pstoeckle)
+[![GitLab](https://media.githubusercontent.com/media/pstoeckle/pstoeckle/refs/heads/main/images/gitlab.svg)](https://gitlab.com/pstoeckle)
+[![LinkedIn](https://media.githubusercontent.com/media/pstoeckle/pstoeckle/refs/heads/main/images/linkedin.svg)](https://www.linkedin.com/in/patrick-stoeckle/)
+[![Website](https://media.githubusercontent.com/media/pstoeckle/pstoeckle/refs/heads/main/images/website.svg)](https://pstoeckle.github.io/)
 
 ## Hi there 👋
 
